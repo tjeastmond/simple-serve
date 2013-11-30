@@ -1,0 +1,20 @@
+{
+  "name": "simple-serve",
+  "version": "0.0.1",
+  "description": "A simple static HTTP server powered by Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [ "http", "httpserver", "http server", "connect", "test", "demo" ],
+  "author": {
+    "name": "TJ Eastmond",
+    "email": "tj.eastmond@gmail.com",
+    "url": "http://tjeastmond.com"
+  },
+  "dependencies": {
+    "connect": "*",
+    "coffee-script": "*"
+  },
+  "license": "MIT"
+}
